@@ -1,6 +1,12 @@
 # E-commerce-analysis problems:
+This project focuses on analyzing e-commerce data using a combination of Python, MySQL, and visualizations in Jupyter Notebook. The data is first cleaned and uploaded to a MySQL database using Pandas, followed by querying the database with SQL to extract insights. The results are then visualized for easier interpretation. This project performs data analysis on an e-commerce dataset to extract meaningful insights. The dataset contains multiple tables related to products, custmoers, seller, location, orders, payments and more.
 
-Problmes On the Data
+# About Dataset
+Target is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience.
+This dataset focuses on Target's operations in Brazil, covering 100,000 orders placed between 2016 and 2018. It includes detailed information on order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.
+
+
+Questions are mentioned below:
 01. List all unique cities where customers are located.
 02. Count the number of orders placed in 2017.
 03. Find the total sales per category.
@@ -16,3 +22,6 @@ Problmes On the Data
 13. Calculate the year-over-year growth rate of total sales.
 14. Calculate the retention rate of customers, defined as the percentage of customers who make another purchase within 6 months of their first purchase.
 15. Identify the top 3 customers who spent the most money in each year.
+
+
+The Dataset link of the kaggle is provided below:
